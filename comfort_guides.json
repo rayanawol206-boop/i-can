@@ -1,0 +1,136 @@
+{
+  "presets": [
+    {
+      "id": "condition",
+      "keywords": ["condition", "explain", "diagnosis", "illness", "sick", "ህመም", "አብራራ", "dhukkuba", "ibsi", "ሕማም", "ኣብርህ"],
+      "label": {
+        "en": "Explain my condition simply",
+        "am": "ህመሜን በቀላል ንገረኝ",
+        "om": "Dhukkuba koo salphaa naaf himi",
+        "ti": "ሕማመይ ብቐሊል ንገረኒ"
+      },
+      "ask": {
+        "en": "Explain my condition simply, without pretending you know my chart.",
+        "am": "ህመሜን በቀላል አብራራ። የኔን ሰነድ እንደምታውቅ አትምሰል።",
+        "om": "Dhukkuba koo salphaatti ibsi. Galmee koo akka beektu hin fakkaatin.",
+        "ti": "ሕማመይ ብቐሊል ኣብርህ። ናይ ታሪኽ ሕማመይ ከም ዝትፈልጥ ኣይትምሰል።"
+      },
+      "guide": {
+        "en": "I cannot see your chart, so I cannot name your condition. Many people here are resting so the body can heal. Your nurse or doctor can explain your own case in simple words. Tell them right away about new pain, numbness, or trouble breathing.",
+        "am": "የእርስዎን ሰነድ አላየሁም፣ ስለዚህ ሕመሙን ስም መስጠት አልችልም። ብዙ ሰዎች እዚህ ሰውነታቸው እንዲድን ያርፋሉ። ነርስዎ ወይም ሐኪምዎ ሁኔታዎን በቀላል ቃላት ያብራራሉ። አዲስ ህመም፣ መደንዘዝ ወይም የመተንፈስ ችግር ካለ ወዲያውኑ ይንገሯቸው።",
+        "om": "Galmee kee hin arganne, kanaaf dhukkubicha maqaa hin moggaasnu. Namoonni hedduun asitti boqotanii qaama isaanii fayyisu. Neersii ykn doktori kee haala kee jechoota salphaan siif ibsa. Dhukkubbiin haaraan, rittaa'uun ykn hafuura baafachuun yoo si rakkise battalumatti isaanitti himi.",
+        "ti": "ናይ ታሪኽ ሕመምካ ኣይረኣኹን፣ ስለዚ ስም ኣይህቦን። ብዙሓት ኣብዚ ይዕርፉ እሞ ኣካላቶም ይሓውይ። ነርስ ወይ ሓኪም ብቐሊል ቃላት የብርህልካ። ሓድሽ ቃንዛ፣ ምድንዛዝ ወይ ጸገም ምስትንፋስ እንተሃልዩ ብኡንብኡ ንገሮም።"
+      }
+    },
+    {
+      "id": "stiffness",
+      "keywords": ["stiff", "muscle", "stretch", "sore", "cramp", "ጡንቻ", "ደንዘዝ", "maashaa", "jabaate", "ጡንቻ", "ደንዘዘ"],
+      "label": {
+        "en": "How to relieve muscle stiffness",
+        "am": "የጡንቻ ድንዛዜን እንዴት ላቃልል",
+        "om": "Maashaa jabaate akkamitti salphisu",
+        "ti": "ጡንቻ ምድንዛዝ ከመይ ይቃለል"
+      },
+      "ask": {
+        "en": "How can a caregiver safely help with muscle stiffness? No exercises that a nurse has not allowed.",
+        "am": "ተንከባካቢ የጡንቻ ድንዛዜን እንዴት በደህና ይረዳል? ነርስ ያልፈቀደውን እንቅስቃሴ አትጥቀስ።",
+        "om": "Nama kunuunsituun maashaa jabaate akkamitti nageenyaan gargaara? Sochii neersii hin hayyamne hin kaasin.",
+        "ti": "መንከባከቢ ጡንቻ ምድንዛዝ ብውሕስነት ብኸመይ ይሕግዝ? ነርስ ዘይፈቐደቶ ምንቅስቓስ ኣይትጥቀስ።"
+      },
+      "guide": {
+        "en": "Stiffness often eases when a caregiver slowly moves a joint you are already allowed to move, and when your position changes. Warmth and a gentle stretch can help. Stop if the pain jumps up. Ask your nurse before any new exercise.",
+        "am": "ድንዛዜ ብዙ ጊዜ ይቀለላል ተንከባካቢ የተፈቀደውን መገጣጠሚያ ቀስ ብሎ ሲያንቀሳቅስ እና ቦታዎ ሲቀየር። ሙቀት እና ለስላሳ መወጠር ሊረዱ ይችላሉ። ህመሙ ከጨመረ ያቁሙ። አዲስ እንቅስቃሴ ከመጀመርዎ በፊት ነርስዎን ይጠይቁ።",
+        "om": "Maashaanni yeroo baay'ee salphaata nama kunuunsituun hidhaa hayyamame suuta sochoosu fi bakki kee yoo jijjiirame. Ho'i fi diriirsuun laafaan gargaara. Dhukkubbiin yoo dabalu dhaabi. Sochii haaraa dura neersii gaafadhu.",
+        "ti": "ጡንቻ ምስ ደነዘዘ ቀስ ዝበለ ምንቅስቓስን ቦታ ምቕያርን ይሕግዝ። ሙቐትን ለውሃት ምዝርዛርን የቃልል። ቃንዛ እንተወሰኸ ደው በል። ቅድሚ ሓድሽ ምንቅስቓስ ነርስ ሕተት።"
+      }
+    },
+    {
+      "id": "breathing",
+      "keywords": ["breath", "breathe", "calm", "anxiety", "relax", "ትንፋሽ", "ተንፈስ", "hafuura", "tasgabbii", "ምስትንፋስ", "ሰአም"],
+      "label": {
+        "en": "Guided calm breathing",
+        "am": "የአንድ ደቂቃ የተረጋጋ ትንፋሽ",
+        "om": "Hafuura tasgabbii",
+        "ti": "ስቑር ምስትንፋስ"
+      },
+      "ask": {
+        "en": "Lead a one-minute calm breathing exercise in short spoken lines.",
+        "am": "የአንድ ደቂቃ የተረጋጋ ትንፋሽ በአጭር መስመሮች መርቸው።",
+        "om": "Hafuura tasgabbii daqiiqaa tokkoo sararoota gabaabaan geggeessi.",
+        "ti": "ናይ ሓደ ደቒቕ ስቑር ምስትንፋስ ብሓጸር መስመራት መርሕ።"
+      },
+      "guide": {
+        "en": "Let's breathe together. Breathe in slowly through your nose. Hold gently. Breathe out longer than the in-breath. Again. In. And out. Let your shoulders drop. You are safe. One more time. In. And out. Rest now.",
+        "am": "አብረን እንተንፍስ። በአፍንጫዎ ቀስ ብለው ይተንፍሱ። ትንሽ ይያዙ። ከገቡት በላይ ረዘም ብለው ይልቀቁ። ደግመው። ይተንፍሱ። ይልቀቁ። ትከሻዎ ይዝለል። ደህና ነዎት። አንድ ጊዜ ደግመው። አሁን ያርፉ።",
+        "om": "Waliin haa hafuurru. Fuunyaan kee suuta hafuura fudhadhu. Xiqqoo turi. Sana booda dheeressitee gadi lakkisi. Irra deebi'i. Fudhadhu. Lakkisi. Gateettii kee haa laafuu. Nagaadha. Al tokko ammas. Amma boqodhu.",
+        "ti": "ብሓባር ንስትንፈስ። ብኣፍንጫ ቀስ ኢልካ ሰአም። ቁሩብ ጽናሕ። ድሕሪኡ ነዊሕ ኢልካ ኣውጽእ። ደጊምካ። ሰአም። ኣውጽእ። መንኩባትካ ኣውርድ። ውሑስ ኢኻ። ሓንሳእ ደጊምካ። ሕጂ ዕረፍ።"
+      }
+    },
+    {
+      "id": "sleep",
+      "keywords": ["sleep", "insomnia", "rest", "night", "tired", "እንቅልፍ", "ድካም", "hirriba", "boqonnaa", "ድቃስ", "ደቂስ"],
+      "label": {
+        "en": "Tips for better sleep",
+        "am": "ለተሻለ እንቅልፍ ምክር",
+        "om": "Gorsa hirriba gaarii",
+        "ti": "ምኽሪ ዝሓሸ ድቃስ"
+      },
+      "ask": {
+        "en": "Give a few simple tips for better sleep for someone who is unwell.",
+        "am": "ለታመመ ሰው ለተሻለ እንቅልፍ ጥቂት ቀላል ምክሮች ስጥ።",
+        "om": "Nama dhukkubsataaaf gorsa hirribaa salphaa muraasa kenni.",
+        "ti": "ንዝሓመመ ሰብ ንዝሓሸ ድቃስ ቀሊል ምኽሪ ሃብ።"
+      },
+      "guide": {
+        "en": "A dark, quiet room helps. Keep the same rest times when you can. Skip a heavy meal just before sleep. If you cannot sleep, slow breathing is kinder than forcing it. Tell your caregiver if pain or worry keeps you awake.",
+        "am": "ጨለማ እና ጸጥ ያለ ክፍል ይረዳል። በተቻለ መጠን ተመሳሳይ የእረፍት ሰዓት ይጠብቁ። ከመተኛት በፊት ከባድ ምግብ ያስወግዱ። መተኛት ካልቻሉ ቀስ ያለ ትንፋሽ ይሻላል። ህመም ወይም ጭንቀት እንቅልፍን ከከለከለ ተንከባካቢዎን ይንገሩ።",
+        "om": "Kutaan dukkanaa'aa fi callisaa gargaara. Yoo dandeesse sa'aatii boqonnaa wal fakkaataa eegi. Hirriba dura nyaata ulfaataa dhiisi. Yoo hin rafne hafuura suutaa wayyu. Dhukkubbiin ykn yaaddoon hirriba si dhorku yoo ta'e nama si kunuunsutti himi.",
+        "ti": "ጸልማትን ስቕታን ዘለዎ ክፍሊ ይሕግዝ። ብዝከኣለካ ተመሳሳሊ ሰዓት ዕረፍቲ ጠብቕ። ቅድሚ ድቃስ ከቢድ መግቢ ግደፍ። እንተዘይደቐስካ ቀስ ዝበለ ምስትንፋስ ዝሓሸ እዩ። ቃንዛ ወይ ሻቕሎት ድቃስ እንተኸልኪሉ ንመንከባከቢ ንገር።"
+      }
+    },
+    {
+      "id": "pain",
+      "keywords": ["pain", "hurt", "ache", "ህመም", "ያመኛል", "dhukkubbii", "na'a", "ቃንዛ", "የቐንዘኒ"],
+      "label": {
+        "en": "I feel pain right now",
+        "am": "አሁን ህመም አለኝ",
+        "om": "Amma na dhukkuba",
+        "ti": "ሕጂ ቃንዛ ኣሎኒ"
+      },
+      "ask": {
+        "en": "I feel pain right now. What can a caregiver safely do, and when is it an emergency?",
+        "am": "አሁን ህመም አለኝ። ተንከባካቢ ምን ማድረግ ይችላል፣ መቼስ አደጋ ነው?",
+        "om": "Amma na dhukkuba. Nama kunuunsituun maal nageenyaan gochuu danda'a, yoom balaa ta'a?",
+        "ti": "ሕጂ ቃንዛ ኣሎኒ። መንከባከቢ ብውሕስነት እንታይ ይገብር፣ መዓዝ ሓደጋ ይኸውን?"
+      },
+      "guide": {
+        "en": "Say where it hurts, and how strong it is from one to ten. A caregiver can change your position, offer water, or check the medicine plan your doctor already wrote. Sudden chest pain, trouble breathing, or a new weak arm needs help right away.",
+        "am": "የት እንደሚያመው እና ከአንድ እስከ አስር ምን ያህል እንደሚያመው ይንገሩ። ተንከባካቢ ቦታዎን ሊቀይር፣ ውሃ ሊሰጥ ወይም ሐኪሙ የጻፈውን መድኃኒት ሊፈትሽ ይችላል። ድንገተኛ የደረት ህመም፣ የመተንፈስ ችግር ወይም አዲስ የእጅ ድክመት ወዲያውኑ እርዳታ ይፈልጋል።",
+        "om": "Eessatti akka dhukkubsatuu fi hamma isa 1 hanga 10tti himi. Nama si kunuunsun bakka si jijjiiruu, bishaan kennuu ykn qoricha doktori kee keeyyate ilaaluu danda'a. Dhukkubbiin laphee tasaa, rakkoo hafuuraa ykn harki haaraan dadhabuun gargaarsa hatattamaa barbaada.",
+        "ti": "ኣበይ ከም ዝቐንዝን ካብ 1 ክሳብ 10 ክንደይ ከም ዝቐንዝን ንገር። መንከባከቢ ቦታኻ ክቅይር፣ ማይ ክህብ ወይ መድሃኒት ሓኪም ከረጋግጽ ይኽእል። ቅጽበታዊ ቃንዛ ኣፍ ልቢ፣ ጸገም ምስትንፋስ ወይ ሓድሽ ድኻም ኢድ ቅልጡፍ ሓገዝ የድሊ።"
+      }
+    },
+    {
+      "id": "comfort",
+      "keywords": ["comfort", "lonely", "company", "scared", "love", "ብቻዬን", "ፍርሃት", "kophaa", "yaaddoo", "በይነይ", "ፍርሒ"],
+      "label": {
+        "en": "I need comfort",
+        "am": "መጽናናት እፈልጋለሁ",
+        "om": "Tasgabbii barbaada",
+        "ti": "ጽንዓት የድልየኒ"
+      },
+      "ask": {
+        "en": "I need comfort and company. Suggest a few kind, simple things a caregiver can do.",
+        "am": "መጽናናት እና ጓደኛ እፈልጋለሁ። ተንከባካቢ ሊያደርጋቸው የሚችሉ ጥቂት ደግ ነገሮች በቀላል ንገረኝ።",
+        "om": "Tasgabbii fi nama na waliin jiru barbaada. Wantoota gara laafinaa salphaa nama kunuunsituun gochuu danda'u himi.",
+        "ti": "ጽንዓትን ብጻይን የድልየኒ። መንከባከቢ ክገብሮም ዝኽእል ቀሊል ምኽሪ ሃብ።"
+      },
+      "guide": {
+        "en": "You are not alone. Someone can sit nearby, hold your hand, or play quiet music. Ask for the person you love. A sip of water, a blanket, or a softer light are worth asking for.",
+        "am": "ብቻዎት አይደሉም። አንድ ሰው አጠገብዎ ሊቀመጥ፣ እጅዎን ሊይዝ ወይም ጸጥ ያለ ሙዚቃ ሊከፍት ይችላል። የሚወዱትን ሰው ይጠይቁ። ውሃ፣ ብርድ ልብስ ወይም ለስላሳ ብርሃን መጠየቅ ይገባል።",
+        "om": "Kophaa keeti miti. Namni tokko si bira taa'uu, harka kee qabuu ykn muuziqaa callisaa banuu danda'a. Nama jaalattu gaafadhu. Bishaan, wayaa ho'aa ykn ifa laafaa gaafachuun gaariidha.",
+        "ti": "በይንኻ ኣይኮንካን። ሰብ ኣብ ጥቓኻ ክትቅመጥ፣ ኢድካ ክትሕዝ ወይ ጸጥ ዝበለ ሙዚቃ ክትኸፍት ትኽእል። ነቲ ትፈቱ ሰብ ሕተት። ማይ፣ ኮቦርታ ወይ ለውሃት ብርሃን ምሕታት ጽቡቕ እዩ።"
+      }
+    }
+  ]
+}

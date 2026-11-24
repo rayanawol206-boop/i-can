@@ -1,0 +1,25 @@
+I Can — how to open it and change it later
+
+The live project on this computer is:
+c:\Users\HP\New folder\I can
+
+Open the app
+1. Double-click run.bat in that folder.
+   Or open a terminal there and run:
+   .\.venv\Scripts\python.exe main.py
+2. The first screen is the welcome page. Begin, then the colored choices.
+
+See and edit the code
+- Open the same folder in Cursor, or in any editor.
+- The files you edit are the .py files in that folder. You do not edit anything inside .venv.
+- main.py is the window, welcome page, chat, and YouTube launch.
+- ai_assistant.py is the assistant's answers.
+- youtube_player.py finds the video.
+- keyboard_ui.py is the scanning keyboard.
+- face_tracker.py is the camera switch.
+- local_phrases.json, youtube_topics.json, and comfort_guides.json are the words you can change without touching Python.
+- The phone version is the mobile folder. Open it with Expo Go only while "npx expo start" is running.
+
+The API key stays in .env on this PC. It is not part of the shared code. Do not post that file online.
+
+After you change a .py file, close the app and start it again with run.bat.

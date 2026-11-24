@@ -1,0 +1,72 @@
+{
+  "categories": [
+    {
+      "id": "faith",
+      "label": {
+        "en": "Religion & Spiritual",
+        "am": "መንፈሳዊ",
+        "om": "Amantii",
+        "ti": "መንፈሳዊ"
+      },
+      "topics": [
+        {"id": "mezmur", "query": "Ethiopian Mezmur", "label": {"en": "Ethiopian Mezmur", "am": "የኢትዮጵያ መዝሙር", "om": "Mezmur Itoophiyaa", "ti": "መዝሙር ኢትዮጵያ"}},
+        {"id": "quran", "query": "Peaceful Quran Recitation", "label": {"en": "Peaceful Quran", "am": "የቁርአን ንባብ", "om": "Dubbisa Qur'aanaa", "ti": "ንባብ ቁርኣን"}},
+        {"id": "chant", "query": "Ethiopian Orthodox chant", "label": {"en": "Church chant", "am": "የቤተክርስቲያን ዝማሬ", "om": "Faaruu mana kiristaanaa", "ti": "ዝማሬ ቤተ ክርስቲያን"}},
+        {"id": "gospel", "query": "Ethiopian gospel mezmur", "label": {"en": "Gospel songs", "am": "የወንጌል መዝሙር", "om": "Faaruu wangeelaa", "ti": "መዝሙር ወንጌል"}},
+        {"id": "bible", "query": "calm Bible reading", "label": {"en": "Calm Bible", "am": "የመጽሐፍ ቅዱስ ንባብ", "om": "Dubbisa Macaafa", "ti": "ንባብ መጽሓፍ ቅዱስ"}},
+        {"id": "nasheed", "query": "peaceful nasheed", "label": {"en": "Peaceful nasheed", "am": "ሰላማዊ ናሺዳ", "om": "Nasheed nagaa", "ti": "ሰላማዊ ናሺድ"}}
+      ]
+    },
+    {
+      "id": "music",
+      "label": {
+        "en": "Music & Relaxation",
+        "am": "ሙዚቃ",
+        "om": "Muuziqaa",
+        "ti": "ሙዚቃ"
+      },
+      "topics": [
+        {"id": "oromo-music", "query": "Oromo Traditional Music", "label": {"en": "Oromo Music", "am": "የኦሮሞ ሙዚቃ", "om": "Muuziqaa Oromoo", "ti": "ሙዚቃ ኦሮሞ"}},
+        {"id": "tigrinya-music", "query": "Tigrinya Music", "label": {"en": "Tigrinya Music", "am": "የትግርኛ ሙዚቃ", "om": "Muuziqaa Tigraay", "ti": "ሙዚቃ ትግርኛ"}},
+        {"id": "ethiopian-music", "query": "Ethiopian music", "label": {"en": "Ethiopian Music", "am": "የኢትዮጵያ ሙዚቃ", "om": "Muuziqaa Itoophiyaa", "ti": "ሙዚቃ ኢትዮጵያ"}},
+        {"id": "piano", "query": "peaceful piano music", "label": {"en": "Peaceful Piano", "am": "የፒያኖ ሙዚቃ", "om": "Piyaanoo nagaa", "ti": "ፒያኖ ሰላም"}},
+        {"id": "nature-sound", "query": "relaxing nature sounds", "label": {"en": "Nature Sounds", "am": "የተፈጥሮ ድምጽ", "om": "Sagalee uumamaa", "ti": "ድምጺ ተፈጥሮ"}},
+        {"id": "amharic-song", "query": "Amharic music", "label": {"en": "Amharic Songs", "am": "የአማርኛ ዘፈን", "om": "Faaruu Amaaraa", "ti": "ደርፊ ኣምሓረኛ"}}
+      ]
+    },
+    {
+      "id": "comedy",
+      "label": {
+        "en": "Comedy & Fun",
+        "am": "አስቂኝ እና መዝናኛ",
+        "om": "Bashannana",
+        "ti": "መዘናግዒ"
+      },
+      "topics": [
+        {"id": "funny", "query": "Funny Comedy Clips", "label": {"en": "Funny Comedy", "am": "አስቂኝ ቪዲዮ", "om": "Bashannana", "ti": "መዘናግዒ"}},
+        {"id": "eth-comedy", "query": "Ethiopian comedy", "label": {"en": "Ethiopian Comedy", "am": "የኢትዮጵያ ኮሜዲ", "om": "Komedii Itoophiyaa", "ti": "ኮሜዲ ኢትዮጵያ"}},
+        {"id": "oromo-comedy", "query": "Oromo comedy", "label": {"en": "Oromo Comedy", "am": "የኦሮሞ ኮሜዲ", "om": "Komedii Oromoo", "ti": "ኮሜዲ ኦሮሞ"}},
+        {"id": "tigrinya-comedy", "query": "Tigrinya comedy", "label": {"en": "Tigrinya Comedy", "am": "የትግርኛ ኮሜዲ", "om": "Komedii Tigraay", "ti": "ኮሜዲ ትግርኛ"}},
+        {"id": "animals", "query": "funny animals", "label": {"en": "Funny Animals", "am": "አስቂኝ እንስሳት", "om": "Bineensota bashannanaa", "ti": "እንስሳ ዘናጊ"}},
+        {"id": "family-jokes", "query": "clean family comedy", "label": {"en": "Family Jokes", "am": "የቤተሰብ ቀልድ", "om": "Qoosaa maatii", "ti": "ቀልዲ ስድራ"}}
+      ]
+    },
+    {
+      "id": "learn",
+      "label": {
+        "en": "Learning & Science",
+        "am": "ትምህርት እና ሳይንስ",
+        "om": "Barnoota",
+        "ti": "ትምህርቲ"
+      },
+      "topics": [
+        {"id": "hawking", "query": "Stephen Hawking Space Documentary", "label": {"en": "Hawking Space", "am": "የሆኪንግ ጠፈር", "om": "Hawking qilleensa", "ti": "ሓውኪንግ ጠፈር"}},
+        {"id": "space", "query": "space documentary", "label": {"en": "Space Documentary", "am": "የጠፈር ዶክመንተሪ", "om": "Dookimentarii qilleensaa", "ti": "ዶኩመንታሪ ጠፈር"}},
+        {"id": "nature-doc", "query": "nature documentary", "label": {"en": "Nature Documentary", "am": "የተፈጥሮ ዶክመንተሪ", "om": "Dookimentarii uumamaa", "ti": "ዶኩመንታሪ ተፈጥሮ"}},
+        {"id": "body", "query": "human body documentary", "label": {"en": "How the Body Works", "am": "ሰውነት እንዴት ይሠራል", "om": "Qaama keenya", "ti": "ኣካል ብኸመይ ይሰርሕ"}},
+        {"id": "africa", "query": "African history documentary", "label": {"en": "African History", "am": "የአፍሪካ ታሪክ", "om": "Seenaa Afrikaa", "ti": "ታሪኽ ኣፍሪቃ"}},
+        {"id": "science", "query": "science documentary for beginners", "label": {"en": "Simple Science", "am": "ቀላል ሳይንስ", "om": "Saayinsii salphaa", "ti": "ሳይንስ ቀሊል"}}
+      ]
+    }
+  ]
+}

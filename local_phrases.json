@@ -1,0 +1,242 @@
+{
+  "am": {
+    "name": "አማርኛ",
+    "english_name": "Amharic",
+    "voice": "am-ET-MekdesNeural",
+    "male_voice": "am-ET-AmehaNeural",
+    "back": "ተመለስ",
+    "voice_note": "Amharic neural voice.",
+    "categories": [
+      {
+        "id": "help",
+        "label": "እርዳታ",
+        "phrases": [
+          "እባክዎት እርዳኝ",
+          "ወዲያውኑ እርዳታ እፈልጋለሁ",
+          "አደጋ ላይ ነኝ",
+          "እባክዎት ነርስ ይጥሩልኝ",
+          "መተንፈስ አልችልም",
+          "እባክዎት ቤተሰቦቼን ይጥሩ",
+          "እባክዎት አይተዉኝ",
+          "እባክዎት አቁሙ"
+        ]
+      },
+      {
+        "id": "pain",
+        "label": "ህመም",
+        "phrases": [
+          "ህመም አለኝ",
+          "ጭንቅላቴ ያመኛል",
+          "ሆዴ ያመኛል",
+          "ደረቴ ያመኛል",
+          "ጀርባዬ ያመኛል",
+          "መድኃኒት እፈልጋለሁ",
+          "ህመሙ በጣም ክፉ ነው",
+          "እግሬ ያመኛል"
+        ]
+      },
+      {
+        "id": "food",
+        "label": "ምግብ እና ምቾት",
+        "phrases": [
+          "ውሃ እፈልጋለሁ",
+          "ተጠምቻለሁ",
+          "ምግብ እፈልጋለሁ",
+          "ተራብቻለሁ",
+          "ቡና እፈልጋለሁ",
+          "ብርድ ይለኛል",
+          "እባክዎት ትራስ ስጡኝ",
+          "መጸዳጃ ቤት መሄድ እፈልጋለሁ"
+        ]
+      },
+      {
+        "id": "family",
+        "label": "ፍቅር እና ቤተሰብ",
+        "phrases": [
+          "እወድሃለሁ",
+          "እናቴን ማየት እፈልጋለሁ",
+          "አባቴን ማየት እፈልጋለሁ",
+          "ቤተሰቤን እወዳለሁ",
+          "ልጆቼን እወዳለሁ",
+          "አመሰግናለሁ",
+          "እባክዎት ከእኔ ጋር ቆዩ",
+          "እባክዎት እጄን ይያዙ"
+        ]
+      },
+      {
+        "id": "greet",
+        "label": "አዎ / አይ / ሰላምታ",
+        "phrases": [
+          "አዎ",
+          "አይ",
+          "ሰላም",
+          "እንዴት ነዎት",
+          "ደህና ነኝ",
+          "ደህና አይደለሁም",
+          "እባክዎት",
+          "አመሰግናለሁ"
+        ]
+      }
+    ]
+  },
+  "om": {
+    "name": "Afaan Oromo",
+    "english_name": "Afaan Oromo",
+    "voice": "en-US-AriaNeural",
+    "male_voice": "en-US-GuyNeural",
+    "back": "Duubatti",
+    "voice_note": "No Afaan Oromo neural voice is available. Online speech reads the Latin spelling.",
+    "categories": [
+      {
+        "id": "help",
+        "label": "Gargaarsa",
+        "phrases": [
+          "Maaloo na gargaaraa",
+          "Gargaarsa hatattamaa barbaada",
+          "Balaa keessa jira",
+          "Maaloo neersii waamaa",
+          "Hafuura baafachuu hin danda'u",
+          "Maaloo maatii koo waamaa",
+          "Maaloo na hin dhiisinaa",
+          "Maaloo dhaabaa"
+        ]
+      },
+      {
+        "id": "pain",
+        "label": "Dhukkubbii",
+        "phrases": [
+          "Dhukkubbii natti dhaga'ama",
+          "Mataa na dhukkuba",
+          "Garaa na dhukkuba",
+          "Laphee na dhukkuba",
+          "Dugda na dhukkuba",
+          "Qoricha barbaada",
+          "Dhukkubbiin baayyee cimaadha",
+          "Miila na dhukkuba"
+        ]
+      },
+      {
+        "id": "food",
+        "label": "Nyaata fi Boqonnaa",
+        "phrases": [
+          "Bishaan barbaada",
+          "Dheebuu na qabe",
+          "Nyaata barbaada",
+          "Beela'eera",
+          "Buna barbaada",
+          "Qorri na qabe",
+          "Maaloo bartaa naaf kennaa",
+          "Mana fincaanii deemuu barbaada"
+        ]
+      },
+      {
+        "id": "family",
+        "label": "Jaalala fi Maatii",
+        "phrases": [
+          "Sin jaaladha",
+          "Haadha koo arguu barbaada",
+          "Abbaa koo arguu barbaada",
+          "Maatii koo nan jaaladha",
+          "Ijoollee koo nan jaaladha",
+          "Galatoomaa",
+          "Maaloo na waliin turi",
+          "Maaloo harka koo qabadhu"
+        ]
+      },
+      {
+        "id": "greet",
+        "label": "Eeyyee / Lakki / Nagaa",
+        "phrases": [
+          "Eeyyee",
+          "Lakki",
+          "Nagaa",
+          "Akkam jirtu",
+          "Nagaan koo gaariidha",
+          "Nagaan koo hin gaarii",
+          "Maaloo",
+          "Galatoomaa"
+        ]
+      }
+    ]
+  },
+  "ti": {
+    "name": "ትግርኛ",
+    "english_name": "Tigrinya",
+    "voice": "am-ET-MekdesNeural",
+    "male_voice": "am-ET-AmehaNeural",
+    "back": "ተመለስ",
+    "voice_note": "No Tigrinya neural voice is available. Online speech uses the Amharic voice, which can read Fidel.",
+    "categories": [
+      {
+        "id": "help",
+        "label": "ሓገዝ",
+        "phrases": [
+          "በጃኹም ሓግዙኒ",
+          "ህጹጽ ሓገዝ የድልየኒ",
+          "ኣብ ሓደጋ ኣለኹ",
+          "በጃኹም ነርስ ይጸውዑ",
+          "ክትንፍስ ኣይክእልን እየ",
+          "በጃኹም ስድራቤተይ ይጸውዑ",
+          "በጃኹም ኣይትገድፉኒ",
+          "በጃኹም ጠጠው በሉ"
+        ]
+      },
+      {
+        "id": "pain",
+        "label": "ቃንዛ",
+        "phrases": [
+          "ቃንዛ ኣለኒ",
+          "ርእሰይ የቐንዘኒ",
+          "ከብደይ የቐንዘኒ",
+          "ማእከለይ የቐንዘኒ",
+          "ሕቖይ የቐንዘኒ",
+          "መድሃኒት የድልየኒ",
+          "እቲ ቃንዛ ኣዝዩ ጽንዑ እዩ",
+          "እግረይ የቐንዘኒ"
+        ]
+      },
+      {
+        "id": "food",
+        "label": "መግቢን ዕረፍትን",
+        "phrases": [
+          "ማይ የድልየኒ",
+          "ጸሚኡኒ",
+          "መግቢ የድልየኒ",
+          "ጥሜት ኣለኒ",
+          "ቡን የድልየኒ",
+          "ቁረይ ኣለኒ",
+          "በጃኹም መተኺ ሃቡኒ",
+          "ሽንቲ ክኸይድ እደሊ"
+        ]
+      },
+      {
+        "id": "family",
+        "label": "ፍቕርን ስድራቤትን",
+        "phrases": [
+          "ኢፈቅረኩም",
+          "ኣደይ ክርኢ እደሊ",
+          "ኣቦይ ክርኢ እደሊ",
+          "ስድራቤተይ ኢፈትዋ",
+          "ደቀይ ኢፈትዎም",
+          "የቐንየለይ",
+          "በጃኹም ምሳይ ጽንሑ",
+          "በጃኹም ኢደይ ሓዙ"
+        ]
+      },
+      {
+        "id": "greet",
+        "label": "እወ / አይፋል / ሰላም",
+        "phrases": [
+          "እወ",
+          "ኣይፋልን",
+          "ሰላም",
+          "ከመይ ኣለኹም",
+          "ጽቡቕ ኣለኹ",
+          "ጽቡቕ ኣይኮንኩን",
+          "በጃኹም",
+          "የቐንየለይ"
+        ]
+      }
+    ]
+  }
+}
